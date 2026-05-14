@@ -1,6 +1,6 @@
 # Hi, I'm Erick Chávez 👋
 
-### Senior React Native Developer | Mobile Infrastructure & Debugging Specialist
+### React Native Developer | Mobile Infrastructure & Debugging Specialist
 Computer Systems Engineer focused on building robust mobile architectures and solving critical problems in cross-platform environments.
 
 ---
